@@ -28,6 +28,6 @@ func bubbles(arr []int) { //冒泡排序(提前结束+冒泡界优化)
 			}
 			lastSwappedIdx = swappedIdx
 		}
-	}
+	} 
 }
  
