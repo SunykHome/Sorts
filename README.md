@@ -15,6 +15,7 @@
 > 对于待排序数组，从第2个元素开始(称作插入对象元素)，比较它与之前的元素(称作比较对象元素)，当插入对象元素小于比较对象元素时，继续往前比较，直到不小于(≥)比较对象，此时将插入对象元素插入到该次比较对象元素之后。重复这个插入过程直到最后一个元素作为插入对象元素完成插入操作。
 > 如下动图展示了{4,6,2,1,7,9,5,8,3}的简单插入排序过程。
 > ![](https://cdn.nlark.com/yuque/0/2022/gif/26902243/1653038324377-00c46c6d-ff6d-49a6-bb09-821fcaa59747.gif#clientId=ub2f572c0-7ff7-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u4eae3341&originHeight=382&originWidth=344&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u419f9ed8-eb80-4697-9372-8c8c99e9366&title=)
+
 > 稳定性：简单插入和折半插入(二分插入)排序是稳定的。
 
 
