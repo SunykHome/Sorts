@@ -30,6 +30,6 @@ func insert(arr []int) { //折半插入排序
 				arr[j] = arr[j-1]
 			}
 			arr[low] = target // 插入
-		}
+		} 
 	}
 }
