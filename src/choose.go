@@ -37,7 +37,7 @@ func choose(arr []int) {
 				arr[maxIndex] = arr[n] ^ arr[maxIndex]
 				arr[n] = arr[n] ^ arr[maxIndex]
 				arr[maxIndex] = arr[n] ^ arr[maxIndex]
-			}
+			} 
 		}
 	}
 }
