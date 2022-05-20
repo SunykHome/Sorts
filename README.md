@@ -17,6 +17,7 @@
 > 如下动图展示了{4,6,2,1,7,9,5,8,3}的简单插入排序过程。
 > ![](https://cdn.nlark.com/yuque/0/2022/gif/26902243/1653038324377-00c46c6d-ff6d-49a6-bb09-821fcaa59747.gif#clientId=ub2f572c0-7ff7-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u4eae3341&originHeight=382&originWidth=344&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u419f9ed8-eb80-4697-9372-8c8c99e9366&title=)
 
+
 > 稳定性：简单插入和折半插入(二分插入)排序是稳定的。
 
 
